@@ -1,0 +1,148 @@
+.body{
+  min-height: 5000vh;
+}
+
+
+@media screen and (max-width:767px) {
+  .Intro{
+    display: none;
+    position: fixed;
+  }
+}
+
+.Intro{
+  background: url('https://gmedia.playstation.com/is/image/SIEPDC/section2a-interactive-bg_widescreen?qlt=87,1&resMode=bilin&fmt=jpg&scl=1') center center / cover ;
+  position: relative;
+}
+ /*sombra atras*/
+.Intro::after {
+  content: '';
+  display: block;
+  background: linear-gradient(90deg, rgba(9, 9, 9, 0.635) 0%, rgba(18,18,18,0) 100%);
+  width: 40%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+
+}
+
+
+
+.Wrapper{
+
+}
+
+
+.Intro-imagenes{
+  position: relative;
+  pointer-events: none;
+  overflow: hidden;
+
+
+}
+.Intro-img{
+  width: 100%;
+  position: absolute;
+  object-fit: scale-down;
+  object-fit: initial;
+
+
+
+}
+
+div  img:first-child{position: static; }
+.bg{
+  opacity: 0;
+}
+
+.boy{
+  width: 25rem;
+  top: 18rem;
+  right: -1rem;
+
+}
+.Kratos{
+  width: 19rem;
+  top: 17rem;
+  right: 29rem;
+}
+.Freya{
+  width: 33rem;
+  top: 7rem;
+  right: -2rem;
+}
+.Kratos{
+  width: 27rem;
+  top: 9rem;
+  right: 22rem;
+
+}
+.Trineo{
+  width: 76rem;
+  top: 24rem;
+  right: -17rem;
+
+}
+.Polvo{
+  width: 45rem;
+  top: 35rem;
+  right: -4rem;
+  transform: matrix(1.2);
+}
+
+.Polvo3{
+  width: 17rem;
+  top: 38rem;
+  right: 2rem;
+  transform: scale(2.2);
+}
+.Polvo4{
+  width: 91rem;
+  top: 0rem;
+  right: 2rem;
+}
+
+
+
+.Ruido{
+ width:100%;
+  bottom: 0;
+  left: 0;
+  top: 19rem;
+}
+
+/*centrar texto*/
+.Intro-section{
+  width: 45%;
+  height: 50%;
+  position: absolute;
+  top: 15%;
+  left: 5%;
+  z-index: 1;
+  color: white;
+  text-shadow: 0 0 1em rgb(4, 4, 4);
+  font-size: clamp(15px, 17vw, 10px);
+
+
+
+
+}
+
+.Intro-h3{
+  font-size: 2.4em;
+  margin: 0 0 1em;
+
+}
+.Intro-p{
+  line-height: 1.5em;
+  font-size: 1em;
+}
+
+
+
+
+
+
+
+
