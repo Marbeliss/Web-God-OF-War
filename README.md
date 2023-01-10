@@ -4,6 +4,6 @@
 
 [![3.png](https://i.postimg.cc/nhjLqdJ5/3.png)](https://postimg.cc/21YmD73F)
 
-[![godofwar.png](https://i.postimg.cc/5tjPDKcV/godofwar.png)](https://postimg.cc/jW0Q7Xdg)
+[![godofwar.png](https://i.postimg.cc/dtSvZc5P/godofwar.png)](https://postimg.cc/YhgTTZcb)
 
 [![6.png](https://i.postimg.cc/q77H8qy7/6.png)](https://postimg.cc/zy4QNJdm)
