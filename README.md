@@ -4,6 +4,6 @@
 
 [![3.png](https://i.postimg.cc/nhjLqdJ5/3.png)](https://postimg.cc/21YmD73F)
 
-[![Opera-Captura-de-pantalla-2023-01-10-103754-localhost.png](https://i.postimg.cc/2yLC07Gj/Opera-Captura-de-pantalla-2023-01-10-103754-localhost.png)](https://postimg.cc/7JDv67jj)
+[![godofwar.png](https://i.postimg.cc/5tjPDKcV/godofwar.png)](https://postimg.cc/jW0Q7Xdg)
 
 [![6.png](https://i.postimg.cc/q77H8qy7/6.png)](https://postimg.cc/zy4QNJdm)
