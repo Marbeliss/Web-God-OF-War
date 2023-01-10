@@ -3,12 +3,7 @@
 }
 
 
-@media screen and (max-width:767px) {
-  .Intro{
-    display: none;
-    position: fixed;
-  }
-}
+
 
 .Intro{
   background: url('https://gmedia.playstation.com/is/image/SIEPDC/section2a-interactive-bg_widescreen?qlt=87,1&resMode=bilin&fmt=jpg&scl=1') center center / cover ;
